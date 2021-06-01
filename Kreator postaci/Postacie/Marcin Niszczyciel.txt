@@ -1,0 +1,19 @@
+Imie:
+Marcin Niszczyciel
+Plec:Mezczyzna
+Rasa:Krasnolud
+Klasa:Wojownik
+Charakter:Dobry
+Cechy:
+Sila:
+18
+Zrecznosc:
+16
+Kondycja:
+17
+Inteligencja:
+8
+Madrosc:
+3
+Charyzma::
+15
