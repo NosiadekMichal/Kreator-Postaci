@@ -1,0 +1,2 @@
+# Kreator-Postaci
+Program został stworzony by ułatwić proces tworzenia postaci do gry RPG "Dungeons &amp; Dragons".  Aby zrobić postać wystarczy śledzić informacje przedstawione w okienku po prawej stronie,  można również nacisnąć na poszczególne etykiety np."sila", by dowiedzieć się więcej. Po wprowadzeniu najważniejszych danych i wybraniu wszystkich możliwych opcji wielokrotnego wyboru, możemy zapisać stworzoną postać do pliku TXT lub wczytać gotowy szablon postaci.
